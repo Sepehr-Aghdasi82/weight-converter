@@ -1,3 +1,3 @@
 #weight-converter
 
-Small pound to kilogram weight conversion add.
+Small pound to kilogram weight conversion app.
